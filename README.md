@@ -1,4 +1,3 @@
-markdown
 
 # Secure Proxy Server with IP Allowlist and Session-Based Authentication
 
